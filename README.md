@@ -68,7 +68,7 @@
 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobaimapct&langs_count=8&layout=compact&theme=radical&count_private=true" alt="gerald's Top Langs" width="600" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobaimpact&langs_count=8&layout=compact&theme=radical&count_private=true" alt="gerald's Top Langs" width="600" /></p>
 
 ---
 ## GitHub Stats and Contributions
