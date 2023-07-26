@@ -2,8 +2,8 @@
 
 <h3 align="center"><p align="left">Hi there!👋</p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zobaimpact&label=Profile%20views&color=0e75b6&style=flat" alt="Gerald" /> </p> -->
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-yinka&label=Profile%20views&color=0e75b6&style=flat" alt="Gerald" /> </p>
-<img src="https://github-hero-readme.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&linkedin=chizoba-okafor-b71a89183""/></h3>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=zobaimpact&label=Profile%20views&color=0e75b6&style=flat" alt="Gerald" /> </p>
+<img src="https://github-hero-readme.vercel.app/api?username=zobaimpact&count_private=true&show_icons=true&include_all_commits=true&linkedin=chizoba-okafor-b71a89183""/></h3>
 ## I use these Languages and Tools:
 <p>
   <a href="https://reactjs.org/" target="_blank">
