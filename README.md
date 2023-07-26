@@ -3,7 +3,7 @@
 <h3 align="center"><p align="left">Hi there!👋</p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zobaimpact&label=Profile%20views&color=0e75b6&style=flat" alt="Gerald" /> </p> -->
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-yinka&label=Profile%20views&color=0e75b6&style=flat" alt="Gerald" /> </p>
-<img src="https://github-hero-readme.vercel.app/api?username=zobaimpact&count_private=true&show_icons=true&include_all_commits=true&linkedin=chizoba-okafor-b71a89183""/></h3>
+<img src="https://github-hero-readme.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&linkedin=chizoba-okafor-b71a89183""/></h3>
 ## I use these Languages and Tools:
 <p>
   <a href="https://reactjs.org/" target="_blank">
@@ -71,15 +71,15 @@
 
 ---
 ## GitHub Stats and Contributions
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zobaimpact" alt="Gerald" /></a> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zobaimpact&count_private=true&show_icons=true&theme=radical" alt="zobaimpact" width="400" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=zobaimpact&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt ="zobaimpact" width="400" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakar-yinka" alt="Gerald" /></a> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abubakar-yinka&count_private=true&show_icons=true&theme=radical" alt="zobaimpact" width="400" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt ="abubakar-yinka" width="400" />
 </p>
 
-[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=zobaimpact&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/zobaimpact/github-profile-trophy&#41;)
+[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=abubakar-yinka&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/abubakar-yinka/github-profile-trophy&#41;)
 
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zobaimpact&theme=dracula" alt="zobaimpact" width="600" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zobaimpact&theme=dracula" alt ="zobaimpact" width="600" />
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakar-yinka&theme=dracula" alt="zobaimpact" width="600" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-yinka&theme=dracula" alt ="zobaimpact" width="600" />
 </p>
 
 ![Gerald's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zobaimpact&theme=react-dark&hide_border=true&area=true)
