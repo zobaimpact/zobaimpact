@@ -76,7 +76,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=abubakar-yinka&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt ="abubakar-yinka" width="400" />
 </p>
 
-[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=abubakar-yinka&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/abubakar-yinka/github-profile-trophy&#41;)
+[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=zobaimpact&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/zobaimpact/github-profile-trophy&#41;)
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abubakar-yinka&theme=dracula" alt="zobaimpact" width="600" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakar-yinka&theme=dracula" alt ="zobaimpact" width="600" />
